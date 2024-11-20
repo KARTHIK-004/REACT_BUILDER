@@ -114,13 +114,6 @@ function Navbar() {
                 ? "Error loading data"
                 : `Welcome back, ${userData?.username || "User"}`}
           </h1>
-          <div className="relative ml-auto">
-            <Search className="absolute left-2 top-2.5 h-4 w-4 text-muted-foreground" />
-            <Input
-              placeholder="Search"
-              className="pl-8 w-[200px] lg:w-[300px]"
-            />
-          </div>
         </div>
         <div className="ml-auto flex items-center space-x-4">
           <ModeToggle />
