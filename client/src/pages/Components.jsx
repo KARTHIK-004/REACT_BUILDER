@@ -160,7 +160,7 @@ export default function ComponentsPage() {
           return a.name.localeCompare(b.name);
         case "name_desc":
           return b.name.localeCompare(a.name);
-        default: // newest
+        default:
           return new Date(b.createdAt) - new Date(a.createdAt);
       }
     });
