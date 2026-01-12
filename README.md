@@ -1,4 +1,4 @@
-# 🚀 ReactBuilder
+# REACT BUILDER
 
 <div align="center">
 
@@ -494,36 +494,11 @@ If you find a bug or have a feature request:
 3. Include steps to reproduce (for bugs)
 4. Add screenshots if applicable
 
----
-
-## 📄 License
-
-This project is licensed under the **ISC License**.
-
----
-
-## 🙏 Acknowledgments
-
-- **shadcn/ui** for the beautiful component library
-- **Monaco Editor** for the powerful code editor
-- **Tailwind CSS** for the utility-first CSS framework
-- **React** team for the amazing framework
-- **MongoDB** for the flexible database solution
-
----
-
 ## 📞 Support
 
-If you need help or have questions:
-
-- 📧 Email: support@reactbuilder.com
-- 💬 Discord: [Join our community](#)
-- 📖 Documentation: [Read the docs](#)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/react-builder/issues)
+For issues, questions, or contributions, please open an issue in the repository.
 
 ---
-
-<div align="center">
 
 **Made with ❤️ by KARTHIK-004**
 
